@@ -1,0 +1,3 @@
+Windows: curl.exe -X GET http://localhost:3000 -c my-cookie.txt
+
+*Nix: curl -X GET http://localhost:3000 -c my-cookie.txt
